@@ -23,9 +23,9 @@ Este simulador empresarial consta de 5 modulos, los cuales son:
 </div>
 
 #### Presentación del aplicativo:
-![](https://github.com/LuisSilva32/SimuladorFinanciero/assets/106349712/22fdda93-927b-4be7-9168-b0d26bad0be4)
+![image](https://github.com/user-attachments/assets/4fb48bed-188a-4b1d-be2c-825afb7165e7)
 
-![](https://github.com/LuisSilva32/SimuladorFinanciero/assets/106349712/5f4ee71b-f6c5-4a88-9ba0-6abcb97bf69f)
+![image](https://github.com/user-attachments/assets/fab12f15-8fb0-4574-898f-3a91b7fa984a)
 
 ## Instalación:
 ###### Clonar el repositorio
