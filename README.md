@@ -29,7 +29,7 @@ Este simulador empresarial consta de 4 modulos, los cuales son:
 ## Instalación:
 ###### Clonar el repositorio
 
-`<link>` : <https://github.com/LuisSilva32/SimuladorFinanciero.git>
+`<link>` : <https://github.com/Gerssy1929/SIMU-ERP.git> 
 
 ## Preparación del backend
 ###### Abrir una terminal y ubicarse en la carpeta "backend" con el comando
