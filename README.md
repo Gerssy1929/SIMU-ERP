@@ -1,4 +1,4 @@
-# Simulador financiero
+# Simulador Empresarial
 
 ###### ***Esta es una versión beta aún no esta terminado***
 
