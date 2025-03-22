@@ -1,6 +1,5 @@
 # Simulador Empresarial
 
-###### ***Esta es una versión beta aún no esta terminado***
 
 Este simulador empresarial consta de 4 modulos, los cuales son:
 - *Simulador de Talento Humano*
