@@ -41,25 +41,6 @@ export default function Sidebar () {
               <span>Dashboard</span>
             </Link>
             <p className='title'>
-              Simuladore Financiero
-            </p>
-            <Link
-              to='/indicators'
-              className={`link-sidebar ${activeLink === '/indicators' ? 'active' : ''}`}
-              onClick={() => handleSetActiveLink('/indicators')}
-            >
-              <i className='bi bi-geo-alt' />
-              <span>Indicadores</span>
-            </Link>
-            <Link
-              to='/stocks'
-              className={`link-sidebar ${activeLink === '/stocks' ? 'active' : ''}`}
-              onClick={() => handleSetActiveLink('/stocks')}
-            >
-              <i className='bi bi-map' />
-              <span>Ind. Microeconomico</span>
-            </Link>
-            <p className='title'>
               Talento Humano
             </p>
             <Link
@@ -77,14 +58,6 @@ export default function Sidebar () {
             >
               <i className='bi bi-person-add' />
               <span>Agregar empleado</span>
-            </Link>
-            <Link
-              to='/pago'
-              className={`link-sidebar ${activeLink === '/pago' ? 'active' : ''}`}
-              onClick={() => handleSetActiveLink('/pago')}
-            >
-              <i className='bi bi-credit-card' />
-              <span>Pago de nomina</span>
             </Link>
             <p className='title'>
               Recursos Empresariales (ERP)
@@ -108,17 +81,6 @@ export default function Sidebar () {
             <Link to='/crm' className='link-sidebar'>
               <i className='bi bi-headset' />
               <span>Proveedores</span>
-            </Link>
-            <p className='title'>
-              Relación con el Cliente (CRM)
-            </p>
-            <Link to='/erp' className='link-sidebar'>
-              <i className='bi bi-badge-ad' />
-              <span>Publicidad</span>
-            </Link>
-            <Link to='/crm' className='link-sidebar'>
-              <i className='bi bi-ticket' />
-              <span>Promociones</span>
             </Link>
             <p className='title'>
               Opciones
