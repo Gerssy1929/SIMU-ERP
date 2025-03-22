@@ -2,12 +2,11 @@
 
 ###### ***Esta es una versión beta aún no esta terminado***
 
-Este simulador empresarial consta de 5 modulos, los cuales son:
-- *Simulador financiero*
-- *Simulador de Tlento Humano*
+Este simulador empresarial consta de 4 modulos, los cuales son:
+- *Simulador de Talento Humano*
 - *Simulador de Recursos empresariales (**ERP**)*
-- *Simulador de relación con el cliente (**CRM**)*
-- *Simulador de sistema de apoyo a toma de decisiones (**Dashboar**)*
+- *Simulador de relación con el cliente (**CRM Pedidos**)*
+- *Simulador de sistema de apoyo a toma de decisiones (**Dashboard**)*
 
 #### Tecnologias utilizadas:
 <div style="display: flex; align-items: center; gap: 10px;">
